@@ -1,0 +1,14 @@
+body {
+  background-color: gray;
+}
+
+body .container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+body .container h1 {
+  color: blue;
+}
+/*# sourceMappingURL=estilo.css.map */

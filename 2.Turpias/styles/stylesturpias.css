@@ -1,0 +1,104 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.logo {
+    box-sizing: border-box;
+    height: 40px;
+    margin: 40px;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+}
+
+.about {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 12px 40px 12px 40px;
+    height: 16px;
+}
+
+.home {
+    margin: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 40px;
+    max-width: 500px;
+}
+
+.signup {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+input {
+    width: 350px;
+    height: 32px;
+}
+
+img {
+    box-sizing: border-box;
+    height: 600px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 80px;
+}
+
+h3 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 35px;
+    color: #1C64F2;
+}
+
+p {
+    font-family: 'DM Sans', sans-serif;
+    color: #6C6C6C;
+}
+
+label {
+    font-family: 'DM Sans', sans-serif;
+    padding-bottom: 15px;
+}
+
+h4 {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.caja { 
+    overflow: visible;
+    background-color: #1C64F2;
+    padding: 50px 0px 50px 0px;
+    margin: 0px;
+    height: 420px;
+}
+
+h2 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 35px;
+    color: #1C64F2;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
